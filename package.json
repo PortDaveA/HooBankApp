@@ -5,11 +5,12 @@
   "homepage": "https://portdavea.github.io/hooBankApp/",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview --port 8080",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    
   },
   "dependencies": {
     "react": "^18.2.0",
