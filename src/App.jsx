@@ -1,18 +1,18 @@
 import React from 'react';
 import styles from './style';
-import NavBar from './components/NavBar';
-import Billing from './components/Billing';
-import Business from './components/Business';
-import Button from './components/Button';
-import CardDeal from './components/CardDeal';
-import Clients from './components/Clients';
-import CTA from './components/CTA';
-import FeedBackCard from './components/FeedBackCard';
-import Footer from './components/Footer';
-import GetStarted from './components/GetStarted';
-import Hero from './components/Hero';
-import Stats from './components/Stats';
-import Testimonials from './components/Testimonials';
+import NavBar from './components/NavBar.jsx';
+import Billing from './components/Billing.jsx';
+import Business from './components/Business.jsx';
+import Button from './components/Button.jsx';
+import CardDeal from './components/CardDeal.jsx';
+import Clients from './components/Clients.jsx';
+import CTA from './components/CTA.jsx';
+import FeedBackCard from './components/FeedBackCard.jsx';
+import Footer from './components/Footer.jsx';
+import GetStarted from './components/GetStarted.jsx';
+import Hero from './components/Hero.jsx';
+import Stats from './components/Stats.jsx';
+import Testimonials from './components/Testimonials.jsx';
 
 
 
