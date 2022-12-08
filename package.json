@@ -1,6 +1,6 @@
 {
   "name": "bank_modern_app",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "homepage": "https://portdavea.github.io/hooBankApp/",
   "type": "module",
