@@ -2,7 +2,7 @@ import React from 'react'
 import { card } from '../assets';
 import { feedback } from '../constants';
 import styles from '../style';
-import FeedBackCard from './FeedBackCard';
+import FeedBackCard from './FeedBackCard.jsx';
 
 const Testimonials = () => (
   <section id="clients" className={`${styles.paddingY} ${styles.flexCenter} flex-col relative`}>
