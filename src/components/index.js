@@ -1,13 +1,13 @@
-import {NavBar} from "./NavBar";
-import {CardDeal} from "./CardDEal";
-import {Business} from "./Business";
-import {Clients} from "./Clients";
-import {CTA} from "./CTA";
-import {Stats} from "./Stats";
-import {Footer} from "./Footer";
-import {Testimonials} from "./Testimonials";
-import {Hero} from "./Hero";
-import {Billing} from "./Billing";
+import {NavBar} from "./NavBar.jsx";
+import {CardDeal} from "./CardDeal.jsx";
+import {Business} from "./Business.jsx";
+import {Clients} from "./Clients.jsx";
+import {CTA} from "./CTA.jsx";
+import {Stats} from "./Stats.jsx";
+import {Footer} from "./Footer.jsx";
+import {Testimonials} from "./Testimonials.jsx";
+import {Hero} from "./Hero.jsx";
+import {Billing} from "./Billing.jsx";
 
 
 export{
