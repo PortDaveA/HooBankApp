@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from '../style';
 import {discount, robot} from '../assets';
-import GetStarted from './GetStarted';
+import GetStarted from './GetStarted.jsx';
 
 
 const Hero = () => (
