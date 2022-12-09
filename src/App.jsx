@@ -1,19 +1,17 @@
-import React from 'react';
 import styles from './style';
-import NavBar from './components/NavBar.jsx';
-import Billing from './components/Billing.jsx';
-import Business from './components/Business.jsx';
-import Button from './components/Button.jsx';
-import CardDeal from './components/CardDeal.jsx';
-import Clients from './components/Clients.jsx';
-import CTA from './components/CTA.jsx';
-import FeedBackCard from './components/FeedBackCard.jsx';
-import Footer from './components/Footer.jsx';
-import GetStarted from './components/GetStarted.jsx';
-import Hero from './components/Hero.jsx';
-import Stats from './components/Stats.jsx';
-import Testimonials from './components/Testimonials.jsx';
 
+import { 
+  Navbar, 
+  Hero, 
+  Stats, 
+  Business,
+  Billing,
+  CardDeal,
+  Testimonials,
+  Clients,
+  CTA,
+  Footer
+} from './components';
 
 
 export const App = () => (
